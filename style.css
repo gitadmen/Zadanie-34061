@@ -1,0 +1,25 @@
+
+
+.outer {
+  height: 400px;
+  width: 400px;
+  background-color: gray;
+  border: 10px gray solid;
+  position: relative;
+}
+
+.inner {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+}
+
+.orange {
+  background-color: orange;
+  bottom: 0;
+}
+
+.gray {
+  background-color: goldenrod;
+  right: 0;
+}
